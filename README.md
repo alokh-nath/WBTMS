@@ -1,4 +1,4 @@
 # WBTMS
-WBTMS stands for Web Based Task Management System
+WBTMS is a Web Based Task Management System.
 
-This is a PHP Project with Codeigniter Framework
+This is a PHP Project using Codeigniter Framework
