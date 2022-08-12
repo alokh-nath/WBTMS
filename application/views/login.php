@@ -33,6 +33,25 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 </div>
             </form>
         </div>
+        <div class="signupmain">
+            <form action="">
+                <div class="logform">
+                    <label for=""><b>Name</b></label>
+                    <input type="text" name="" id="" placeholder="Enter Name" required>
+                    <br>
+                    <label for=""><b>Email</b></label>
+                    <input type="text" name="" id="" placeholder="Enter your Mail ID" required>
+                    <br>
+                    <label for=""><b>User Name</b></label>
+                    <input type="text" name="" id="" placeholder="create User Name" required>
+                    <br>
+                    <label for=""><b>Password</b></label>
+                    <input type="text" name="" id="" placeholder="Create Password" required>
+                    <br>
+                    <button type="submit">Sign Up</button>
+                </div>
+            </form>
+        </div>
     </div>
     <div class="logfooter">
 
