@@ -18,4 +18,9 @@ class Maincontroller extends CI_Controller {
     {
         $this->load->view('about');
     }
+
+    public function login()
+    {
+        $this->load->view('login');
+    }
 }
