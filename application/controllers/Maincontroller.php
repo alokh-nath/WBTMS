@@ -19,8 +19,8 @@ class Maincontroller extends CI_Controller {
         $this->load->view('about');
     }
 
-    public function login()
+    public function dash()
     {
-        $this->load->view('login');
+        $this->load->view('dash');
     }
 }
