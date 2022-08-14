@@ -5,8 +5,14 @@ This is a PHP Project using Codeigniter Framework.
 
 ## Contirbute
  Fork
+
+
  Clone
+
+
  Make New Branch
+
+ 
  Edit, Commit and Push
 
 ### Database
@@ -19,7 +25,7 @@ Create Database and Table
 
  Table:
 
- 
+
  CREATE TABLE user (
   id int(11) NOT NULL AUTO_INCREMENT,
   name varchar(100) NOT NULL,
