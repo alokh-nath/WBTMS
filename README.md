@@ -23,7 +23,7 @@ Create Database and Table
  Name: WBTMS
 
 
- Table:
+ Table: 1
 
 
  CREATE TABLE user (
