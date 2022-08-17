@@ -24,10 +24,12 @@ Create Database and Table
 
  Name: WBTMS
 
+Copy the sql query given below and create the tables
 
  Table: 1
 
 ```
+
  CREATE TABLE user (
   id int(11) NOT NULL AUTO_INCREMENT,
   name varchar(100) NOT NULL,
@@ -35,4 +37,5 @@ Create Database and Table
   password varchar(100) NOT NULL,
   PRIMARY KEY (id)
  ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4
+
  ```
