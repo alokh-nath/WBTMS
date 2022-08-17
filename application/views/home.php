@@ -13,11 +13,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 </head>
 <body>
     <div class="logheader">
-        <div class="topnav">
-            <button onclick="parent.location='maincontroller/about'".style.display='block' style="width:auto;">About Us</button>
-            <button onclick="document.getElementById('id02').style.display='block'" style="width:auto;">Sign Up</button>
-            <button onclick="document.getElementById('id01').style.display='block'" style="width:auto;">Login</button>
-        </div>
         <div id="id01" class="model">
             <form class="modal-content animate" action="/login.php" method="post">
                 <div class="container">
@@ -62,9 +57,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 </div>
             </form>
         </div>
-    </div>
-    <div class="logfooter">
-
     </div>
 </body>
 </html>
